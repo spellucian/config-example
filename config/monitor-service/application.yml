@@ -1,0 +1,3 @@
+monitor.rate: '10/hr'
+monitor.format: openmetrics
+org.property1.threshold: 60
