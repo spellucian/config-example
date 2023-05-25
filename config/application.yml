@@ -1,2 +1,3 @@
 metrics.port: 9090
 logging.level: info
+top-leve.property1: true
