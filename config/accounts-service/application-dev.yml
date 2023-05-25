@@ -1,3 +1,4 @@
 name: Accounts/Payments Service
 server.port: 8443
 logging.level: debug
+server.metrics.interval: 15

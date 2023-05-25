@@ -2,3 +2,6 @@ name: Accounts/Payments Service
 server.port: 8443
 logging.level: info
 db: accounts-db.local.:5432
+server.metrics.interval: 30
+service.property-1: Something
+service.property-2: Second Option
