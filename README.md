@@ -5,3 +5,5 @@ Repo to showcase and test patterns for configuration management.
 
 - Test1
 - Test2
+
+Other branches may be created later.
